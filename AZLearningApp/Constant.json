@@ -1,0 +1,6 @@
+Student:{
+  studentId:'',
+  studentName:'',
+  address:'',
+  gender:''
+}
