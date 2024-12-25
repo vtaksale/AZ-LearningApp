@@ -1,0 +1,67 @@
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\bin\Debug\net6.0\appsettings.json
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\bin\Debug\net6.0\AZLearningApp.staticwebassets.runtime.json
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\bin\Debug\net6.0\AZLearningApp.staticwebassets.endpoints.json
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\bin\Debug\net6.0\AZLearningApp.exe
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\bin\Debug\net6.0\AZLearningApp.deps.json
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\bin\Debug\net6.0\AZLearningApp.runtimeconfig.json
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\bin\Debug\net6.0\AZLearningApp.dll
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\bin\Debug\net6.0\AZLearningApp.pdb
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\obj\Debug\net6.0\AZLearningApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\obj\Debug\net6.0\AZLearningApp.AssemblyInfoInputs.cache
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\obj\Debug\net6.0\AZLearningApp.AssemblyInfo.cs
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\obj\Debug\net6.0\AZLearningApp.csproj.CoreCompileInputs.cache
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\obj\Debug\net6.0\AZLearningApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\obj\Debug\net6.0\AZLearningApp.RazorAssemblyInfo.cache
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\obj\Debug\net6.0\AZLearningApp.RazorAssemblyInfo.cs
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\obj\Debug\net6.0\scopedcss\bundle\AZLearningApp.styles.css
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\obj\Debug\net6.0\scopedcss\projectbundle\AZLearningApp.bundle.scp.css
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\obj\Debug\net6.0\staticwebassets\msbuild.AZLearningApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\obj\Debug\net6.0\staticwebassets\msbuild.AZLearningApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\obj\Debug\net6.0\staticwebassets\msbuild.build.AZLearningApp.props
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AZLearningApp.props
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AZLearningApp.props
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\obj\Debug\net6.0\AZLearningApp.dll
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\obj\Debug\net6.0\refint\AZLearningApp.dll
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\obj\Debug\net6.0\AZLearningApp.pdb
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\obj\Debug\net6.0\AZLearningApp.genruntimeconfig.cache
+C:\Vishal Taksale\Naresh IT\.NET Full Stack\C#\AZLearningApp\AZLearningApp\obj\Debug\net6.0\ref\AZLearningApp.dll
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\bin\Debug\net6.0\appsettings.json
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\bin\Debug\net6.0\AZLearningApp.staticwebassets.endpoints.json
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\bin\Debug\net6.0\AZLearningApp.staticwebassets.runtime.json
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\bin\Debug\net6.0\AZLearningApp.exe
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\bin\Debug\net6.0\AZLearningApp.deps.json
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\bin\Debug\net6.0\AZLearningApp.runtimeconfig.json
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\bin\Debug\net6.0\AZLearningApp.dll
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\bin\Debug\net6.0\AZLearningApp.pdb
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\obj\Debug\net6.0\AZLearningApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\obj\Debug\net6.0\AZLearningApp.AssemblyInfoInputs.cache
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\obj\Debug\net6.0\AZLearningApp.AssemblyInfo.cs
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\obj\Debug\net6.0\AZLearningApp.csproj.CoreCompileInputs.cache
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\obj\Debug\net6.0\AZLearningApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\obj\Debug\net6.0\AZLearningApp.RazorAssemblyInfo.cache
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\obj\Debug\net6.0\AZLearningApp.RazorAssemblyInfo.cs
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\obj\Debug\net6.0\scopedcss\bundle\AZLearningApp.styles.css
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\obj\Debug\net6.0\scopedcss\projectbundle\AZLearningApp.bundle.scp.css
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\obj\Debug\net6.0\staticwebassets\msbuild.AZLearningApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\obj\Debug\net6.0\staticwebassets\msbuild.AZLearningApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\obj\Debug\net6.0\staticwebassets\msbuild.build.AZLearningApp.props
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AZLearningApp.props
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AZLearningApp.props
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\obj\Debug\net6.0\AZLearningApp.dll
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\obj\Debug\net6.0\refint\AZLearningApp.dll
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\obj\Debug\net6.0\AZLearningApp.pdb
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\obj\Debug\net6.0\AZLearningApp.genruntimeconfig.cache
+C:\Vishal Taksale\Azure Practice\AZ-204\AZLearningApp\AZLearningApp\obj\Debug\net6.0\ref\AZLearningApp.dll
